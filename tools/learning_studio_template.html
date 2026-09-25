@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A visual, concept-first course in hypothesis testing and statistical inference.">
+  <title>Hypothesis Testing · Learning Studio</title>
+  <style>
+__COURSE_CSS__
+  </style>
+</head>
+<body class="studio_shell">
+  <a class="skip_link" href="#course_content">Skip to course content</a>
+  <header class="app_header">
+    <div class="brand"><span class="brand_mark">H₀</span><span>Inference Learning Studio</span></div>
+    <div class="course_progress" aria-label="Course progress">
+      <div class="progress_label"><span>Course progress</span><span id="progress_text">0 of 15 lessons</span></div>
+      <div class="progress_track"><div class="progress_fill" id="progress_fill"></div></div>
+    </div>
+    <div class="header_actions">
+      <button class="icon_button" id="theme_button" type="button" aria-label="Toggle high contrast">◐</button>
+      <button class="icon_button menu_button" id="menu_button" type="button" aria-label="Open course navigation">☰</button>
+    </div>
+  </header>
+  <div class="course_layout">
+    <aside class="course_sidebar" id="course_navigation">
+      <div class="search_box"><input id="course_search" type="search" placeholder="Find a lesson or topic" aria-label="Search course navigation"></div>
+      <nav aria-label="Course navigation">__NAVIGATION__</nav>
+      <p class="empty_search" id="empty_search">No matching pages.</p>
+    </aside>
+    <main class="course_main" id="course_content">__ARTICLES__</main>
+  </div>
+  <script>
+    const pageOrder = __PAGE_ORDER__;
+    const pages = [...document.querySelectorAll('.course_page')];
+    const links = [...document.querySelectorAll('.nav_link')];
+    const lessonChecks = [...document.querySelectorAll('[data-progress]')];
+    const progressKey = 'hypothesis_testing_course_progress_v2';
+    function titleFor(id) { const page = document.getElementById(id); return page ? page.dataset.title : id; }
+    function updateProgress() {
+      const completed = lessonChecks.filter(item => item.checked).length;
+      document.getElementById('progress_text').textContent = `${completed} of ${lessonChecks.length} lessons`;
+      document.getElementById('progress_fill').style.width = `${lessonChecks.length ? completed / lessonChecks.length * 100 : 0}%`;
+      try { localStorage.setItem(progressKey, JSON.stringify(lessonChecks.filter(item => item.checked).map(item => item.dataset.progress))); } catch (error) { /* Progress still works for this session. */ }
+    }
+    function buildPageNavigation() {
+      pages.forEach(page => {
+        const index = pageOrder.indexOf(page.id), previous = pageOrder[index - 1], next = pageOrder[index + 1];
+        const nav = page.querySelector('.page_nav');
+        const previousLink = previous ? `<a href="#${previous}"><small>Previous</small><strong>${titleFor(previous)}</strong></a>` : '';
+        const nextLink = next ? `<a href="#${next}"><small>Next</small><strong>${titleFor(next)}</strong></a>` : '';
+        nav.innerHTML = previousLink + nextLink;
+      });
+    }
+    function showPage() {
+      let id = location.hash.slice(1) || pageOrder[0];
+      if (!pageOrder.includes(id)) id = pageOrder[0];
+      pages.forEach(page => page.classList.toggle('active', page.id === id));
+      links.forEach(link => { const active = link.dataset.page === id; link.classList.toggle('active', active); active ? link.setAttribute('aria-current', 'page') : link.removeAttribute('aria-current'); });
+      const activeGroup = document.querySelector(`.nav_link[data-page="${id}"]`)?.closest('.nav_level');
+      if (activeGroup) activeGroup.open = true;
+      document.title = `${titleFor(id)} · Learning Studio`;
+      document.body.classList.remove('nav_open');
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    }
+    let saved = new Set();
+    try { saved = new Set(JSON.parse(localStorage.getItem(progressKey) || '[]')); } catch (error) { /* Reading remains available when storage is disabled. */ }
+    lessonChecks.forEach(item => { item.checked = saved.has(item.dataset.progress); item.addEventListener('change', updateProgress); });
+    document.getElementById('course_search').addEventListener('input', event => {
+      const query = event.target.value.trim().toLowerCase(); let visible = 0;
+      links.forEach(link => { const match = !query || link.dataset.search.includes(query); link.classList.toggle('hidden', !match); if (match) visible += 1; });
+      document.querySelectorAll('.nav_level').forEach(group => {
+        group.hidden = !!query && !group.querySelector('.nav_link:not(.hidden)');
+        if (query && !group.hidden) group.open = true;
+      });
+      document.getElementById('empty_search').style.display = visible ? 'none' : 'block';
+    });
+    document.getElementById('menu_button').addEventListener('click', () => document.body.classList.toggle('nav_open'));
+    document.getElementById('theme_button').addEventListener('click', () => document.body.classList.toggle('high_contrast'));
+    window.addEventListener('hashchange', showPage);
+    buildPageNavigation(); updateProgress(); showPage();
+  </script>
+</body>
+</html>

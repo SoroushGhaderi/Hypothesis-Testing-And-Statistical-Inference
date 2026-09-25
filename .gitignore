@@ -1,0 +1,46 @@
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Testing, linting, type checking, coverage
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Local secrets and editor state
+.env
+.env.*
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and local scratch
+*.log
+tmp/
+temp/
+.cache/
