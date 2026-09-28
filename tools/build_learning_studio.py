@@ -208,9 +208,7 @@ def illustration_html(spec: dict) -> str:
         raise ValueError(f"Missing or invalid approved illustration: {source}")
     return (
         f'<figure class="lesson_illustration" data-illustration="lesson_{spec["lesson"]:02d}">'
-        f'<a class="illustration_open" href="{html.escape(source, quote=True)}" target="_blank" rel="noopener" aria-label="Open illustration at full size">'
         f'<img src="{html.escape(source, quote=True)}" width="{spec["width"]}" height="{spec["height"]}" loading="lazy" decoding="async" alt="{html.escape(spec["alt"], quote=True)}">'
-        '<span class="illustration_open_label">View full size</span></a>'
         f'<figcaption><p>{html.escape(spec["caption"])}</p>'
         f'<p class="illustration_labels">{html.escape(spec["labels_text"])}</p></figcaption></figure>'
     )
@@ -403,10 +401,6 @@ def main() -> None:
     for spec in ILLUSTRATIONS.values():
         for field in ["caption", "alt", "labels_text"]:
             translations[spec[field]] = spec[field + "_fa"]
-    translations.update({
-        "View full size": "مشاهده در اندازهٔ کامل",
-        "Open illustration at full size": "باز کردن تصویر در اندازهٔ کامل",
-    })
     translation_json = json.dumps(translations, ensure_ascii=False).replace("<", "\\u003c")
     order = [re.search(r'id="([^"]+)"', article).group(1) for _, _, article in pages]
     result = (

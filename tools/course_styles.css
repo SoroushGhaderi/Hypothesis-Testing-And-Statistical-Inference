@@ -141,14 +141,10 @@ button, summary { cursor: pointer; }
 .module th { background: var(--accent-soft); color: var(--ink); font-weight: 700; }
 .module a { font-weight: 600; }
 .lesson_illustration { margin: 26px 0 12px; overflow: hidden; border: 1px solid var(--line); border-radius: 12px; background: var(--subtle-surface); }
-.illustration_open { position: relative; display: block; background: #f8f5ee; }
-.illustration_open img { display: block; width: 100%; height: auto; }
-.illustration_open_label { display: block; width: fit-content; margin: 0 12px 12px auto; padding: 6px 10px; border: 1px solid #8095aa; border-radius: 7px; background: #f8f5ee; color: #263849; font-size: 12px; }
-.illustration_open:hover .illustration_open_label { text-decoration: underline; }
+.lesson_illustration img { display: block; width: 100%; height: auto; background: #f8f5ee; }
 .lesson_illustration figcaption { padding: 16px 18px; }
 .lesson_illustration figcaption p { max-width: none; font-size: 14px; line-height: 1.55; }
 .lesson_illustration .illustration_labels { margin: 8px 0 0; color: var(--muted); font-size: 13px; }
-.illustration_open:focus-visible { outline-offset: -4px; }
 .term { padding: .1em .28em; border-radius: 4px; background: var(--accent-soft); color: var(--accent-dark); font: inherit; }
 math { font-family: "STIX Two Math", "Cambria Math", "Latin Modern Math", serif; font-size: 1.04em; }
 .math_display { max-width: 100%; margin: 22px 0; padding: 16px 18px; overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; background: var(--subtle-surface); text-align: center; }

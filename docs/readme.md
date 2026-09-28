@@ -11,6 +11,8 @@ The [Learning Studio](../course.html) provides the visual course. The authoritat
 
 ## For maintainers
 
+- [Website review](maintenance/website_review/review.md) — verified theme repairs and prioritized learning improvements.
+- [Illustration catalogue](../assets/illustrations/readme.md) — final images, placements, and production notes.
 - [Notebook toolkit](maintenance/notebook_toolkit.md) — shared Python practices.
 - [Course coverage index](maintenance/course_coverage_index.md) — concept and API traceability.
 - [Notebook alignment audit](maintenance/markdown_notebook_audit.md) — parity checks for lessons and notebooks.

@@ -93,7 +93,7 @@ def run(output: Path | None) -> dict:
                             assert image.get_attribute('alt') == spec['alt'+suffix]
                             assert figure.locator('figcaption p').first.inner_text() == spec['caption'+suffix]
                             assert figure.locator('.illustration_labels').inner_text() == spec['labels_text'+suffix]
-                            assert figure.locator('.illustration_open').get_attribute('href') == spec['src']
+                            assert figure.locator('a, button').count() == 0
                             summary['illustration_checks'].append({'page':identifier,'width':width,'language':language,'theme':theme,'loaded':True})
                         audit = page.evaluate(CONTRAST_AUDIT)
                         assert not audit['failures'], (width,language,theme,identifier,audit['failures'][:5])

@@ -83,7 +83,6 @@ def main() -> int:
             continue
         figure = figures[0]
         image = figure.find("img")
-        link = figure.find("a", class_="illustration_open")
         asset = (ROOT / spec['src']).resolve()
         if not asset.is_relative_to(ROOT / "assets/illustrations") or not asset.is_file():
             errors.append(f"{identifier} illustration asset is missing or outside its asset directory")
@@ -91,8 +90,8 @@ def main() -> int:
             errors.append(f"{identifier} illustration source, description or dimensions differ from its manifest")
         if image is None or image.get('loading') != 'lazy':
             errors.append(f"{identifier} illustration must load lazily")
-        if link is None or link.get('href') != spec['src']:
-            errors.append(f"{identifier} lacks its full-size image link")
+        if figure.find('a') or figure.find('button'):
+            errors.append(f"{identifier} illustration must have no redundant image controls")
         if figure.select_one('figcaption p') is None or figure.select_one('figcaption p').get_text() != spec['caption']:
             errors.append(f"{identifier} illustration caption differs from its manifest")
     if any(image.find_parent('figure', class_='lesson_illustration') is None for image in soup.select('img')):

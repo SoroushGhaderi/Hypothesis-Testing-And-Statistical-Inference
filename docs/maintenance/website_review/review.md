@@ -10,11 +10,13 @@ This is a website and learning-experience review. Published statistical results 
 
 ## Illustration integration follow-up
 
+Following the user’s cleanup request, images remain inline without a full-size button or image link. Final PNGs are grouped under `assets/illustrations/lessons/`; generation prompts and art direction are grouped under `illustrations/`; validation and screenshots are grouped under `evidence/`. The obsolete preview gallery and superseded draft were removed. All references were updated in the generator, manifest, validators, and documentation.
+
 The first five images were initially saved as previews, so they could not appear in `course.html`. The course builder now inserts registered local assets at their exact section boundaries. The user-approved style extends across all 15 lessons, with one sparse concept illustration per lesson.
 
-The completed integration passed **240 illustration checks** (15 lessons × 2 themes × 2 languages × 4 widths), alongside the existing **320 full-page checks**, six interaction groups, and no JavaScript errors. All images loaded at their expected 1536 × 1024 dimensions; captions, alt text, and label explanations matched the English/Persian manifest. A separate browser check verified that the full-size link opens the correct original image. The HTML and math validators also passed. Evidence is saved in [illustration_validation.json](illustration_validation.json), with representative [mobile light](illustration-01-390-en-light.png), [Persian mobile night](illustration-11-320-fa-dark.png), and [desktop night](illustration-06-1440-en-dark.png) figure captures.
+The completed integration passed **240 illustration checks** (15 lessons × 2 themes × 2 languages × 4 widths), alongside the existing **320 full-page checks**, six interaction groups, and no JavaScript errors. All images loaded at their expected 1536 × 1024 dimensions; captions, alt text, and label explanations matched the English/Persian manifest. The HTML and math validators also passed. Evidence is saved in [validation.json](evidence/validation.json), with representative [mobile light](evidence/screenshots/illustration-01-390-en-light.png), [Persian mobile night](evidence/screenshots/illustration-11-320-fa-dark.png), and [desktop night](evidence/screenshots/illustration-06-1440-en-dark.png) figure captures.
 
-Visual review checked the teaching geometry, label spelling, whitespace, and actual inserted layouts. The Lesson 13 revision separates patient timelines. At very narrow widths, the readable HTML label explanations and full-size view support the sparse bitmap labels. Raster text contrast is not measured by the HTML contrast script. These illustrations address conceptual gaps; actual-data plots and the other prioritized review items remain proposed.
+Visual review checked the teaching geometry, label spelling, whitespace, and actual inserted layouts. The Lesson 13 revision separates patient timelines. At very narrow widths, the readable HTML label explanations support the sparse bitmap labels. Raster text contrast is not measured by the HTML contrast script. These illustrations address conceptual gaps; actual-data plots and the other prioritized review items remain proposed.
 
 ## Night-mode diagnosis
 
@@ -58,7 +60,7 @@ Text thresholds used are 4.5:1 for ordinary text and 3:1 for large text, followi
 
 Reproduce the browser checks with `python3 tools/validate_studio_browser.py --output /tmp/studio-validation`. It requires the optional Playwright Python package and its Chromium browser. Run `python3 tools/build_learning_studio.py`, `python3 tools/validate_teaching_html.py`, and `python3 tools/validate_math.py` for generation and existing checks.
 
-Saved evidence: [validation summary](/Users/soroush/Desktop/Personal/Projects/hypothesis_testing_and_statistical_inference/docs/maintenance/website_review/validation.json), [desktop night screenshot](/Users/soroush/Desktop/Personal/Projects/hypothesis_testing_and_statistical_inference/docs/maintenance/website_review/night-desktop.png), [mobile night screenshot](/Users/soroush/Desktop/Personal/Projects/hypothesis_testing_and_statistical_inference/docs/maintenance/website_review/night-mobile.png), [mobile light screenshot](/Users/soroush/Desktop/Personal/Projects/hypothesis_testing_and_statistical_inference/docs/maintenance/website_review/light-mobile.png), and [Persian night screenshot](/Users/soroush/Desktop/Personal/Projects/hypothesis_testing_and_statistical_inference/docs/maintenance/website_review/persian-night-desktop.png).
+Saved evidence: [validation summary](evidence/validation.json), [desktop night screenshot](evidence/screenshots/night-desktop.png), [mobile night screenshot](evidence/screenshots/night-mobile.png), [mobile light screenshot](evidence/screenshots/light-mobile.png), and [Persian night screenshot](evidence/screenshots/persian-night-desktop.png).
 
 ## Prioritized website improvements
 
@@ -135,7 +137,7 @@ All figures should follow the theme/mobile rules in the next section. The last c
 
 ## Shared figure, mobile, and theme requirements
 
-The [course image art direction](/Users/soroush/Desktop/Personal/Projects/hypothesis_testing_and_statistical_inference/docs/maintenance/website_review/image_art_direction.md) now governs every recommendation: one concept per figure, no more than four short labels, restrained textbook illustration, consistent paper/ink palette, and generous empty space. Split the broader concepts in the table into separate images when they exceed this budget. The first quality-preview batch follows Lessons 1–5 in lesson order.
+The [course image art direction](illustrations/image_art_direction.md) now governs every recommendation: one concept per figure, no more than four short labels, restrained textbook illustration, consistent paper/ink palette, and generous empty space. Split the broader concepts in the table into separate images when they exceed this budget. The first quality-preview batch follows Lessons 1–5 in lesson order.
 
 Use instructional figures at the explanatory boundaries above, not stock photographs or decorative breaks. Native diagrams and regenerated statistical plots are better suited to this content than browser screenshots or code-to-browser comparisons: this is a statistics course with no visible code examples.
 
@@ -145,7 +147,7 @@ For diagrams, use semantic theme colors and clear boundaries. For exported plots
 
 Keep mathematical symbols and numerical axes left-to-right. Localize captions, descriptions, and explanatory labels; review technical terminology and mixed-script ordering in Persian. Scientific graphics should preserve exact data and distinguish observed values, simulations, and schematic illustrations.
 
-The existing generator deliberately removes images, and `validate_teaching_html.py` rejects them. In the separate insertion step, update that policy to allow approved instructional figures and accessible captions while retaining the exclusion of notebook code, raw outputs, and answer keys. Reusing notebook PNGs unchanged is unlikely to meet narrow-screen, theme, and annotation requirements.
+The generator now inserts the 15 registered instructional figures and accessible captions; `validate_teaching_html.py` verifies those assets while retaining the exclusion of notebook code, raw outputs, and answer keys. Reusing notebook PNGs unchanged is unlikely to meet narrow-screen, theme, and annotation requirements.
 
 ## Recommended sequence
 

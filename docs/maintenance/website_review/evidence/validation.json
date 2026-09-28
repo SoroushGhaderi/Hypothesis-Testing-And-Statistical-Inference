@@ -30,7 +30,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_01",
-      "text_nodes": 253,
+      "text_nodes": 252,
       "minimum_contrast": 4.684
     },
     {
@@ -38,7 +38,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_02",
-      "text_nodes": 176,
+      "text_nodes": 175,
       "minimum_contrast": 4.684
     },
     {
@@ -46,7 +46,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_03",
-      "text_nodes": 176,
+      "text_nodes": 175,
       "minimum_contrast": 4.684
     },
     {
@@ -54,7 +54,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_04",
-      "text_nodes": 142,
+      "text_nodes": 141,
       "minimum_contrast": 4.684
     },
     {
@@ -62,7 +62,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_05",
-      "text_nodes": 151,
+      "text_nodes": 150,
       "minimum_contrast": 4.684
     },
     {
@@ -70,6 +70,62 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_06",
+      "text_nodes": 167,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_07",
+      "text_nodes": 181,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 191,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 162,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 165,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_11",
+      "text_nodes": 169,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 185,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_13",
       "text_nodes": 168,
       "minimum_contrast": 4.684
     },
@@ -77,64 +133,8 @@
       "width": 1440,
       "language": "en",
       "theme": "light",
-      "page": "lesson_07",
-      "text_nodes": 182,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_08",
-      "text_nodes": 192,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_09",
-      "text_nodes": 163,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_10",
-      "text_nodes": 166,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_11",
-      "text_nodes": 170,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_12",
-      "text_nodes": 186,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_13",
-      "text_nodes": 169,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "light",
       "page": "lesson_14",
-      "text_nodes": 190,
+      "text_nodes": 189,
       "minimum_contrast": 4.684
     },
     {
@@ -142,7 +142,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_15",
-      "text_nodes": 226,
+      "text_nodes": 225,
       "minimum_contrast": 4.684
     },
     {
@@ -190,7 +190,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_01",
-      "text_nodes": 273,
+      "text_nodes": 272,
       "minimum_contrast": 7.545
     },
     {
@@ -198,7 +198,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_02",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 7.545
     },
     {
@@ -206,7 +206,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_03",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 7.545
     },
     {
@@ -214,7 +214,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_04",
-      "text_nodes": 162,
+      "text_nodes": 161,
       "minimum_contrast": 7.545
     },
     {
@@ -222,54 +222,6 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_05",
-      "text_nodes": 171,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_06",
-      "text_nodes": 178,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_07",
-      "text_nodes": 192,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_08",
-      "text_nodes": 202,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_09",
-      "text_nodes": 173,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_10",
-      "text_nodes": 176,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_11",
       "text_nodes": 170,
       "minimum_contrast": 7.545
     },
@@ -277,15 +229,47 @@
       "width": 1440,
       "language": "en",
       "theme": "dark",
-      "page": "lesson_12",
-      "text_nodes": 186,
+      "page": "lesson_06",
+      "text_nodes": 177,
       "minimum_contrast": 7.545
     },
     {
       "width": 1440,
       "language": "en",
       "theme": "dark",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 191,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 201,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 172,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 175,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_11",
       "text_nodes": 169,
       "minimum_contrast": 7.545
     },
@@ -293,8 +277,24 @@
       "width": 1440,
       "language": "en",
       "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 185,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 168,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
       "page": "lesson_14",
-      "text_nodes": 190,
+      "text_nodes": 189,
       "minimum_contrast": 7.545
     },
     {
@@ -302,7 +302,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_15",
-      "text_nodes": 226,
+      "text_nodes": 225,
       "minimum_contrast": 7.545
     },
     {
@@ -350,7 +350,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_01",
-      "text_nodes": 273,
+      "text_nodes": 272,
       "minimum_contrast": 4.684
     },
     {
@@ -358,7 +358,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_02",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 4.684
     },
     {
@@ -366,7 +366,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_03",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 4.684
     },
     {
@@ -374,7 +374,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_04",
-      "text_nodes": 162,
+      "text_nodes": 161,
       "minimum_contrast": 4.684
     },
     {
@@ -382,54 +382,6 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_05",
-      "text_nodes": 171,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_06",
-      "text_nodes": 178,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_07",
-      "text_nodes": 192,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_08",
-      "text_nodes": 202,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_09",
-      "text_nodes": 173,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_10",
-      "text_nodes": 176,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_11",
       "text_nodes": 170,
       "minimum_contrast": 4.684
     },
@@ -437,15 +389,47 @@
       "width": 1440,
       "language": "fa",
       "theme": "light",
-      "page": "lesson_12",
-      "text_nodes": 186,
+      "page": "lesson_06",
+      "text_nodes": 177,
       "minimum_contrast": 4.684
     },
     {
       "width": 1440,
       "language": "fa",
       "theme": "light",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 191,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 201,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 172,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 175,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_11",
       "text_nodes": 169,
       "minimum_contrast": 4.684
     },
@@ -453,8 +437,24 @@
       "width": 1440,
       "language": "fa",
       "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 185,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 168,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
       "page": "lesson_14",
-      "text_nodes": 190,
+      "text_nodes": 189,
       "minimum_contrast": 4.684
     },
     {
@@ -462,7 +462,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_15",
-      "text_nodes": 226,
+      "text_nodes": 225,
       "minimum_contrast": 4.684
     },
     {
@@ -510,7 +510,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_01",
-      "text_nodes": 273,
+      "text_nodes": 272,
       "minimum_contrast": 7.545
     },
     {
@@ -518,7 +518,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_02",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 7.545
     },
     {
@@ -526,7 +526,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_03",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 7.545
     },
     {
@@ -534,7 +534,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_04",
-      "text_nodes": 162,
+      "text_nodes": 161,
       "minimum_contrast": 7.545
     },
     {
@@ -542,54 +542,6 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_05",
-      "text_nodes": 171,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_06",
-      "text_nodes": 178,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_07",
-      "text_nodes": 192,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_08",
-      "text_nodes": 202,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_09",
-      "text_nodes": 173,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_10",
-      "text_nodes": 176,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 1440,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_11",
       "text_nodes": 170,
       "minimum_contrast": 7.545
     },
@@ -597,15 +549,47 @@
       "width": 1440,
       "language": "fa",
       "theme": "dark",
-      "page": "lesson_12",
-      "text_nodes": 186,
+      "page": "lesson_06",
+      "text_nodes": 177,
       "minimum_contrast": 7.545
     },
     {
       "width": 1440,
       "language": "fa",
       "theme": "dark",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 191,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 201,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 172,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 175,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_11",
       "text_nodes": 169,
       "minimum_contrast": 7.545
     },
@@ -613,8 +597,24 @@
       "width": 1440,
       "language": "fa",
       "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 185,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 168,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
       "page": "lesson_14",
-      "text_nodes": 190,
+      "text_nodes": 189,
       "minimum_contrast": 7.545
     },
     {
@@ -622,7 +622,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_15",
-      "text_nodes": 226,
+      "text_nodes": 225,
       "minimum_contrast": 7.545
     },
     {
@@ -670,7 +670,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_01",
-      "text_nodes": 273,
+      "text_nodes": 272,
       "minimum_contrast": 4.684
     },
     {
@@ -678,7 +678,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_02",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 4.684
     },
     {
@@ -686,7 +686,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_03",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 4.684
     },
     {
@@ -694,7 +694,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_04",
-      "text_nodes": 162,
+      "text_nodes": 161,
       "minimum_contrast": 4.684
     },
     {
@@ -702,54 +702,6 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_05",
-      "text_nodes": 171,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_06",
-      "text_nodes": 178,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_07",
-      "text_nodes": 192,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_08",
-      "text_nodes": 202,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_09",
-      "text_nodes": 173,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_10",
-      "text_nodes": 176,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_11",
       "text_nodes": 170,
       "minimum_contrast": 4.684
     },
@@ -757,15 +709,47 @@
       "width": 768,
       "language": "en",
       "theme": "light",
-      "page": "lesson_12",
-      "text_nodes": 186,
+      "page": "lesson_06",
+      "text_nodes": 177,
       "minimum_contrast": 4.684
     },
     {
       "width": 768,
       "language": "en",
       "theme": "light",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 191,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 201,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 172,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 175,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_11",
       "text_nodes": 169,
       "minimum_contrast": 4.684
     },
@@ -773,8 +757,24 @@
       "width": 768,
       "language": "en",
       "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 185,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 168,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
       "page": "lesson_14",
-      "text_nodes": 190,
+      "text_nodes": 189,
       "minimum_contrast": 4.684
     },
     {
@@ -782,7 +782,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_15",
-      "text_nodes": 226,
+      "text_nodes": 225,
       "minimum_contrast": 4.684
     },
     {
@@ -830,7 +830,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_01",
-      "text_nodes": 273,
+      "text_nodes": 272,
       "minimum_contrast": 7.545
     },
     {
@@ -838,7 +838,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_02",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 7.545
     },
     {
@@ -846,7 +846,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_03",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 7.545
     },
     {
@@ -854,7 +854,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_04",
-      "text_nodes": 162,
+      "text_nodes": 161,
       "minimum_contrast": 7.545
     },
     {
@@ -862,54 +862,6 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_05",
-      "text_nodes": 171,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_06",
-      "text_nodes": 178,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_07",
-      "text_nodes": 192,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_08",
-      "text_nodes": 202,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_09",
-      "text_nodes": 173,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_10",
-      "text_nodes": 176,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_11",
       "text_nodes": 170,
       "minimum_contrast": 7.545
     },
@@ -917,15 +869,47 @@
       "width": 768,
       "language": "en",
       "theme": "dark",
-      "page": "lesson_12",
-      "text_nodes": 186,
+      "page": "lesson_06",
+      "text_nodes": 177,
       "minimum_contrast": 7.545
     },
     {
       "width": 768,
       "language": "en",
       "theme": "dark",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 191,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 201,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 172,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 175,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_11",
       "text_nodes": 169,
       "minimum_contrast": 7.545
     },
@@ -933,8 +917,24 @@
       "width": 768,
       "language": "en",
       "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 185,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 168,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
       "page": "lesson_14",
-      "text_nodes": 190,
+      "text_nodes": 189,
       "minimum_contrast": 7.545
     },
     {
@@ -942,7 +942,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_15",
-      "text_nodes": 226,
+      "text_nodes": 225,
       "minimum_contrast": 7.545
     },
     {
@@ -990,7 +990,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_01",
-      "text_nodes": 273,
+      "text_nodes": 272,
       "minimum_contrast": 4.684
     },
     {
@@ -998,7 +998,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_02",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 4.684
     },
     {
@@ -1006,7 +1006,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_03",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 4.684
     },
     {
@@ -1014,7 +1014,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_04",
-      "text_nodes": 162,
+      "text_nodes": 161,
       "minimum_contrast": 4.684
     },
     {
@@ -1022,54 +1022,6 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_05",
-      "text_nodes": 171,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_06",
-      "text_nodes": 178,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_07",
-      "text_nodes": 192,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_08",
-      "text_nodes": 202,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_09",
-      "text_nodes": 173,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_10",
-      "text_nodes": 176,
-      "minimum_contrast": 4.684
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_11",
       "text_nodes": 170,
       "minimum_contrast": 4.684
     },
@@ -1077,15 +1029,47 @@
       "width": 768,
       "language": "fa",
       "theme": "light",
-      "page": "lesson_12",
-      "text_nodes": 186,
+      "page": "lesson_06",
+      "text_nodes": 177,
       "minimum_contrast": 4.684
     },
     {
       "width": 768,
       "language": "fa",
       "theme": "light",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 191,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 201,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 172,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 175,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_11",
       "text_nodes": 169,
       "minimum_contrast": 4.684
     },
@@ -1093,8 +1077,24 @@
       "width": 768,
       "language": "fa",
       "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 185,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 168,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
       "page": "lesson_14",
-      "text_nodes": 190,
+      "text_nodes": 189,
       "minimum_contrast": 4.684
     },
     {
@@ -1102,7 +1102,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_15",
-      "text_nodes": 226,
+      "text_nodes": 225,
       "minimum_contrast": 4.684
     },
     {
@@ -1150,7 +1150,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_01",
-      "text_nodes": 273,
+      "text_nodes": 272,
       "minimum_contrast": 7.545
     },
     {
@@ -1158,7 +1158,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_02",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 7.545
     },
     {
@@ -1166,7 +1166,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_03",
-      "text_nodes": 196,
+      "text_nodes": 195,
       "minimum_contrast": 7.545
     },
     {
@@ -1174,7 +1174,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_04",
-      "text_nodes": 162,
+      "text_nodes": 161,
       "minimum_contrast": 7.545
     },
     {
@@ -1182,54 +1182,6 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_05",
-      "text_nodes": 171,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_06",
-      "text_nodes": 178,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_07",
-      "text_nodes": 192,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_08",
-      "text_nodes": 202,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_09",
-      "text_nodes": 173,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_10",
-      "text_nodes": 176,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 768,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_11",
       "text_nodes": 170,
       "minimum_contrast": 7.545
     },
@@ -1237,15 +1189,47 @@
       "width": 768,
       "language": "fa",
       "theme": "dark",
-      "page": "lesson_12",
-      "text_nodes": 186,
+      "page": "lesson_06",
+      "text_nodes": 177,
       "minimum_contrast": 7.545
     },
     {
       "width": 768,
       "language": "fa",
       "theme": "dark",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 191,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 201,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 172,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 175,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_11",
       "text_nodes": 169,
       "minimum_contrast": 7.545
     },
@@ -1253,8 +1237,24 @@
       "width": 768,
       "language": "fa",
       "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 185,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 168,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
       "page": "lesson_14",
-      "text_nodes": 190,
+      "text_nodes": 189,
       "minimum_contrast": 7.545
     },
     {
@@ -1262,7 +1262,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_15",
-      "text_nodes": 226,
+      "text_nodes": 225,
       "minimum_contrast": 7.545
     },
     {
@@ -1310,7 +1310,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_01",
-      "text_nodes": 222,
+      "text_nodes": 221,
       "minimum_contrast": 5.605
     },
     {
@@ -1318,7 +1318,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_02",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 5.605
     },
     {
@@ -1326,7 +1326,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_03",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 5.605
     },
     {
@@ -1334,7 +1334,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_04",
-      "text_nodes": 111,
+      "text_nodes": 110,
       "minimum_contrast": 5.605
     },
     {
@@ -1342,54 +1342,6 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_05",
-      "text_nodes": 120,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_06",
-      "text_nodes": 127,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_07",
-      "text_nodes": 141,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_08",
-      "text_nodes": 151,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_09",
-      "text_nodes": 122,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_10",
-      "text_nodes": 125,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_11",
       "text_nodes": 119,
       "minimum_contrast": 5.605
     },
@@ -1397,15 +1349,47 @@
       "width": 390,
       "language": "en",
       "theme": "light",
-      "page": "lesson_12",
-      "text_nodes": 135,
+      "page": "lesson_06",
+      "text_nodes": 126,
       "minimum_contrast": 5.605
     },
     {
       "width": 390,
       "language": "en",
       "theme": "light",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 140,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 150,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 121,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 124,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_11",
       "text_nodes": 118,
       "minimum_contrast": 5.605
     },
@@ -1413,8 +1397,24 @@
       "width": 390,
       "language": "en",
       "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 134,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 117,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
       "page": "lesson_14",
-      "text_nodes": 139,
+      "text_nodes": 138,
       "minimum_contrast": 5.605
     },
     {
@@ -1422,7 +1422,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_15",
-      "text_nodes": 175,
+      "text_nodes": 174,
       "minimum_contrast": 5.605
     },
     {
@@ -1470,7 +1470,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_01",
-      "text_nodes": 222,
+      "text_nodes": 221,
       "minimum_contrast": 7.545
     },
     {
@@ -1478,7 +1478,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_02",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 7.545
     },
     {
@@ -1486,7 +1486,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_03",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 7.545
     },
     {
@@ -1494,7 +1494,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_04",
-      "text_nodes": 111,
+      "text_nodes": 110,
       "minimum_contrast": 7.545
     },
     {
@@ -1502,54 +1502,6 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_05",
-      "text_nodes": 120,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_06",
-      "text_nodes": 127,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_07",
-      "text_nodes": 141,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_08",
-      "text_nodes": 151,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_09",
-      "text_nodes": 122,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_10",
-      "text_nodes": 125,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_11",
       "text_nodes": 119,
       "minimum_contrast": 7.545
     },
@@ -1557,15 +1509,47 @@
       "width": 390,
       "language": "en",
       "theme": "dark",
-      "page": "lesson_12",
-      "text_nodes": 135,
+      "page": "lesson_06",
+      "text_nodes": 126,
       "minimum_contrast": 7.545
     },
     {
       "width": 390,
       "language": "en",
       "theme": "dark",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 140,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 150,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 121,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 124,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_11",
       "text_nodes": 118,
       "minimum_contrast": 7.545
     },
@@ -1573,8 +1557,24 @@
       "width": 390,
       "language": "en",
       "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 134,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 117,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
       "page": "lesson_14",
-      "text_nodes": 139,
+      "text_nodes": 138,
       "minimum_contrast": 7.545
     },
     {
@@ -1582,7 +1582,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_15",
-      "text_nodes": 175,
+      "text_nodes": 174,
       "minimum_contrast": 7.545
     },
     {
@@ -1630,7 +1630,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_01",
-      "text_nodes": 222,
+      "text_nodes": 221,
       "minimum_contrast": 5.605
     },
     {
@@ -1638,7 +1638,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_02",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 5.605
     },
     {
@@ -1646,7 +1646,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_03",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 5.605
     },
     {
@@ -1654,7 +1654,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_04",
-      "text_nodes": 111,
+      "text_nodes": 110,
       "minimum_contrast": 5.605
     },
     {
@@ -1662,54 +1662,6 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_05",
-      "text_nodes": 120,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_06",
-      "text_nodes": 127,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_07",
-      "text_nodes": 141,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_08",
-      "text_nodes": 151,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_09",
-      "text_nodes": 122,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_10",
-      "text_nodes": 125,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_11",
       "text_nodes": 119,
       "minimum_contrast": 5.605
     },
@@ -1717,15 +1669,47 @@
       "width": 390,
       "language": "fa",
       "theme": "light",
-      "page": "lesson_12",
-      "text_nodes": 135,
+      "page": "lesson_06",
+      "text_nodes": 126,
       "minimum_contrast": 5.605
     },
     {
       "width": 390,
       "language": "fa",
       "theme": "light",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 140,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 150,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 121,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 124,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_11",
       "text_nodes": 118,
       "minimum_contrast": 5.605
     },
@@ -1733,8 +1717,24 @@
       "width": 390,
       "language": "fa",
       "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 134,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 117,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
       "page": "lesson_14",
-      "text_nodes": 139,
+      "text_nodes": 138,
       "minimum_contrast": 5.605
     },
     {
@@ -1742,7 +1742,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_15",
-      "text_nodes": 175,
+      "text_nodes": 174,
       "minimum_contrast": 5.605
     },
     {
@@ -1790,7 +1790,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_01",
-      "text_nodes": 222,
+      "text_nodes": 221,
       "minimum_contrast": 7.545
     },
     {
@@ -1798,7 +1798,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_02",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 7.545
     },
     {
@@ -1806,7 +1806,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_03",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 7.545
     },
     {
@@ -1814,7 +1814,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_04",
-      "text_nodes": 111,
+      "text_nodes": 110,
       "minimum_contrast": 7.545
     },
     {
@@ -1822,54 +1822,6 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_05",
-      "text_nodes": 120,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_06",
-      "text_nodes": 127,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_07",
-      "text_nodes": 141,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_08",
-      "text_nodes": 151,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_09",
-      "text_nodes": 122,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_10",
-      "text_nodes": 125,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 390,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_11",
       "text_nodes": 119,
       "minimum_contrast": 7.545
     },
@@ -1877,15 +1829,47 @@
       "width": 390,
       "language": "fa",
       "theme": "dark",
-      "page": "lesson_12",
-      "text_nodes": 135,
+      "page": "lesson_06",
+      "text_nodes": 126,
       "minimum_contrast": 7.545
     },
     {
       "width": 390,
       "language": "fa",
       "theme": "dark",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 140,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 150,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 121,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 124,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_11",
       "text_nodes": 118,
       "minimum_contrast": 7.545
     },
@@ -1893,8 +1877,24 @@
       "width": 390,
       "language": "fa",
       "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 134,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 117,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
       "page": "lesson_14",
-      "text_nodes": 139,
+      "text_nodes": 138,
       "minimum_contrast": 7.545
     },
     {
@@ -1902,7 +1902,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_15",
-      "text_nodes": 175,
+      "text_nodes": 174,
       "minimum_contrast": 7.545
     },
     {
@@ -1950,7 +1950,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_01",
-      "text_nodes": 222,
+      "text_nodes": 221,
       "minimum_contrast": 5.605
     },
     {
@@ -1958,7 +1958,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_02",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 5.605
     },
     {
@@ -1966,7 +1966,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_03",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 5.605
     },
     {
@@ -1974,7 +1974,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_04",
-      "text_nodes": 111,
+      "text_nodes": 110,
       "minimum_contrast": 5.605
     },
     {
@@ -1982,54 +1982,6 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_05",
-      "text_nodes": 120,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_06",
-      "text_nodes": 127,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_07",
-      "text_nodes": 141,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_08",
-      "text_nodes": 151,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_09",
-      "text_nodes": 122,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_10",
-      "text_nodes": 125,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "light",
-      "page": "lesson_11",
       "text_nodes": 119,
       "minimum_contrast": 5.605
     },
@@ -2037,15 +1989,47 @@
       "width": 320,
       "language": "en",
       "theme": "light",
-      "page": "lesson_12",
-      "text_nodes": 135,
+      "page": "lesson_06",
+      "text_nodes": 126,
       "minimum_contrast": 5.605
     },
     {
       "width": 320,
       "language": "en",
       "theme": "light",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 140,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 150,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 121,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 124,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_11",
       "text_nodes": 118,
       "minimum_contrast": 5.605
     },
@@ -2053,8 +2037,24 @@
       "width": 320,
       "language": "en",
       "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 134,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 117,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
       "page": "lesson_14",
-      "text_nodes": 139,
+      "text_nodes": 138,
       "minimum_contrast": 5.605
     },
     {
@@ -2062,7 +2062,7 @@
       "language": "en",
       "theme": "light",
       "page": "lesson_15",
-      "text_nodes": 175,
+      "text_nodes": 174,
       "minimum_contrast": 5.605
     },
     {
@@ -2110,7 +2110,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_01",
-      "text_nodes": 222,
+      "text_nodes": 221,
       "minimum_contrast": 7.545
     },
     {
@@ -2118,7 +2118,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_02",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 7.545
     },
     {
@@ -2126,7 +2126,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_03",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 7.545
     },
     {
@@ -2134,7 +2134,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_04",
-      "text_nodes": 111,
+      "text_nodes": 110,
       "minimum_contrast": 7.545
     },
     {
@@ -2142,54 +2142,6 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_05",
-      "text_nodes": 120,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_06",
-      "text_nodes": 127,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_07",
-      "text_nodes": 141,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_08",
-      "text_nodes": 151,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_09",
-      "text_nodes": 122,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_10",
-      "text_nodes": 125,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "en",
-      "theme": "dark",
-      "page": "lesson_11",
       "text_nodes": 119,
       "minimum_contrast": 7.545
     },
@@ -2197,15 +2149,47 @@
       "width": 320,
       "language": "en",
       "theme": "dark",
-      "page": "lesson_12",
-      "text_nodes": 135,
+      "page": "lesson_06",
+      "text_nodes": 126,
       "minimum_contrast": 7.545
     },
     {
       "width": 320,
       "language": "en",
       "theme": "dark",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 140,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 150,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 121,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 124,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_11",
       "text_nodes": 118,
       "minimum_contrast": 7.545
     },
@@ -2213,8 +2197,24 @@
       "width": 320,
       "language": "en",
       "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 134,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 117,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
       "page": "lesson_14",
-      "text_nodes": 139,
+      "text_nodes": 138,
       "minimum_contrast": 7.545
     },
     {
@@ -2222,7 +2222,7 @@
       "language": "en",
       "theme": "dark",
       "page": "lesson_15",
-      "text_nodes": 175,
+      "text_nodes": 174,
       "minimum_contrast": 7.545
     },
     {
@@ -2270,7 +2270,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_01",
-      "text_nodes": 222,
+      "text_nodes": 221,
       "minimum_contrast": 5.605
     },
     {
@@ -2278,7 +2278,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_02",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 5.605
     },
     {
@@ -2286,7 +2286,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_03",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 5.605
     },
     {
@@ -2294,7 +2294,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_04",
-      "text_nodes": 111,
+      "text_nodes": 110,
       "minimum_contrast": 5.605
     },
     {
@@ -2302,54 +2302,6 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_05",
-      "text_nodes": 120,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_06",
-      "text_nodes": 127,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_07",
-      "text_nodes": 141,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_08",
-      "text_nodes": 151,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_09",
-      "text_nodes": 122,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_10",
-      "text_nodes": 125,
-      "minimum_contrast": 5.605
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "light",
-      "page": "lesson_11",
       "text_nodes": 119,
       "minimum_contrast": 5.605
     },
@@ -2357,15 +2309,47 @@
       "width": 320,
       "language": "fa",
       "theme": "light",
-      "page": "lesson_12",
-      "text_nodes": 135,
+      "page": "lesson_06",
+      "text_nodes": 126,
       "minimum_contrast": 5.605
     },
     {
       "width": 320,
       "language": "fa",
       "theme": "light",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 140,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 150,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 121,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 124,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_11",
       "text_nodes": 118,
       "minimum_contrast": 5.605
     },
@@ -2373,8 +2357,24 @@
       "width": 320,
       "language": "fa",
       "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 134,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 117,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
       "page": "lesson_14",
-      "text_nodes": 139,
+      "text_nodes": 138,
       "minimum_contrast": 5.605
     },
     {
@@ -2382,7 +2382,7 @@
       "language": "fa",
       "theme": "light",
       "page": "lesson_15",
-      "text_nodes": 175,
+      "text_nodes": 174,
       "minimum_contrast": 5.605
     },
     {
@@ -2430,7 +2430,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_01",
-      "text_nodes": 222,
+      "text_nodes": 221,
       "minimum_contrast": 7.545
     },
     {
@@ -2438,7 +2438,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_02",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 7.545
     },
     {
@@ -2446,7 +2446,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_03",
-      "text_nodes": 145,
+      "text_nodes": 144,
       "minimum_contrast": 7.545
     },
     {
@@ -2454,7 +2454,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_04",
-      "text_nodes": 111,
+      "text_nodes": 110,
       "minimum_contrast": 7.545
     },
     {
@@ -2462,54 +2462,6 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_05",
-      "text_nodes": 120,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_06",
-      "text_nodes": 127,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_07",
-      "text_nodes": 141,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_08",
-      "text_nodes": 151,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_09",
-      "text_nodes": 122,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_10",
-      "text_nodes": 125,
-      "minimum_contrast": 7.545
-    },
-    {
-      "width": 320,
-      "language": "fa",
-      "theme": "dark",
-      "page": "lesson_11",
       "text_nodes": 119,
       "minimum_contrast": 7.545
     },
@@ -2517,15 +2469,47 @@
       "width": 320,
       "language": "fa",
       "theme": "dark",
-      "page": "lesson_12",
-      "text_nodes": 135,
+      "page": "lesson_06",
+      "text_nodes": 126,
       "minimum_contrast": 7.545
     },
     {
       "width": 320,
       "language": "fa",
       "theme": "dark",
-      "page": "lesson_13",
+      "page": "lesson_07",
+      "text_nodes": 140,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 150,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 121,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 124,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_11",
       "text_nodes": 118,
       "minimum_contrast": 7.545
     },
@@ -2533,8 +2517,24 @@
       "width": 320,
       "language": "fa",
       "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 134,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 117,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
       "page": "lesson_14",
-      "text_nodes": 139,
+      "text_nodes": 138,
       "minimum_contrast": 7.545
     },
     {
@@ -2542,7 +2542,7 @@
       "language": "fa",
       "theme": "dark",
       "page": "lesson_15",
-      "text_nodes": 175,
+      "text_nodes": 174,
       "minimum_contrast": 7.545
     },
     {
@@ -4250,8 +4250,7 @@
     "system default/live change and explicit preference precedence",
     "print uses light colors even with saved night mode",
     "invalid storage: reading and toggle remain functional",
-    "blocked storage: reading and toggle remain functional",
-    "full-size link opens correct original image in a new tab"
+    "blocked storage: reading and toggle remain functional"
   ],
   "errors": [],
   "total_page_checks": 320

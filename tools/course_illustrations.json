@@ -1,7 +1,7 @@
 [
   {
     "lesson": 1,
-    "src": "assets/illustrations/preview_set_01/lesson_01_two_sided_p_value.png",
+    "src": "assets/illustrations/lessons/lesson_01_two_sided_p_value.png",
     "width": 1536,
     "height": 1024,
     "section": "1.2 What a p-value is—and is not",
@@ -14,7 +14,7 @@
   },
   {
     "lesson": 2,
-    "src": "assets/illustrations/preview_set_01/lesson_02_power_and_detection.png",
+    "src": "assets/illustrations/lessons/lesson_02_power_and_detection.png",
     "width": 1536,
     "height": 1024,
     "section": "2.1 Two kinds of decision error",
@@ -27,7 +27,7 @@
   },
   {
     "lesson": 3,
-    "src": "assets/illustrations/preview_set_01/lesson_03_mean_interval_and_benchmark.png",
+    "src": "assets/illustrations/lessons/lesson_03_mean_interval_and_benchmark.png",
     "width": 1536,
     "height": 1024,
     "section": "Worked example and interpretation",
@@ -41,7 +41,7 @@
   },
   {
     "lesson": 4,
-    "src": "assets/illustrations/preview_set_01/lesson_04_independent_groups.png",
+    "src": "assets/illustrations/lessons/lesson_04_independent_groups.png",
     "width": 1536,
     "height": 1024,
     "section": "4.1 Design and estimand",
@@ -54,7 +54,7 @@
   },
   {
     "lesson": 5,
-    "src": "assets/illustrations/preview_set_01/lesson_05_paired_measurements.png",
+    "src": "assets/illustrations/lessons/lesson_05_paired_measurements.png",
     "width": 1536,
     "height": 1024,
     "section": "5.1 Pairing changes the unit of analysis",
@@ -67,7 +67,7 @@
   },
   {
     "lesson": 6,
-    "src": "assets/illustrations/lesson_06_anova_variation.png",
+    "src": "assets/illustrations/lessons/lesson_06_anova_variation.png",
     "width": 1536,
     "height": 1024,
     "section": "6.1 The omnibus question",
@@ -80,7 +80,7 @@
   },
   {
     "lesson": 7,
-    "src": "assets/illustrations/lesson_07_interaction_profiles.png",
+    "src": "assets/illustrations/lessons/lesson_07_interaction_profiles.png",
     "width": 1536,
     "height": 1024,
     "section": "7.1 Factorial designs",
@@ -93,7 +93,7 @@
   },
   {
     "lesson": 8,
-    "src": "assets/illustrations/lesson_08_observed_expected_counts.png",
+    "src": "assets/illustrations/lessons/lesson_08_observed_expected_counts.png",
     "width": 1536,
     "height": 1024,
     "section": "8.1 Independence in a contingency table",
@@ -106,7 +106,7 @@
   },
   {
     "lesson": 9,
-    "src": "assets/illustrations/lesson_09_risk_difference_interval.png",
+    "src": "assets/illustrations/lessons/lesson_09_risk_difference_interval.png",
     "width": 1536,
     "height": 1024,
     "section": "Worked example and interpretation",
@@ -120,7 +120,7 @@
   },
   {
     "lesson": 10,
-    "src": "assets/illustrations/lesson_10_association_scatter.png",
+    "src": "assets/illustrations/lessons/lesson_10_association_scatter.png",
     "width": 1536,
     "height": 1024,
     "section": "10.1 Correlation is a model of association",
@@ -133,7 +133,7 @@
   },
   {
     "lesson": 11,
-    "src": "assets/illustrations/lesson_11_permutation_labels.png",
+    "src": "assets/illustrations/lessons/lesson_11_permutation_labels.png",
     "width": 1536,
     "height": 1024,
     "section": "11.1 Three families, three ideas",
@@ -146,7 +146,7 @@
   },
   {
     "lesson": 12,
-    "src": "assets/illustrations/lesson_12_equivalence_bounds.png",
+    "src": "assets/illustrations/lessons/lesson_12_equivalence_bounds.png",
     "width": 1536,
     "height": 1024,
     "section": "12.2 Equivalence is not non-significance",
@@ -159,7 +159,7 @@
   },
   {
     "lesson": 13,
-    "src": "assets/illustrations/lesson_13_censored_follow_up_v2.png",
+    "src": "assets/illustrations/lessons/lesson_13_censored_follow_up.png",
     "width": 1536,
     "height": 1024,
     "section": "13.2 Time-to-event data and censoring",
@@ -172,7 +172,7 @@
   },
   {
     "lesson": 14,
-    "src": "assets/illustrations/lesson_14_count_and_binary_outcomes.png",
+    "src": "assets/illustrations/lessons/lesson_14_count_and_binary_outcomes.png",
     "width": 1536,
     "height": 1024,
     "section": "14.2 Capstone scenario",
@@ -185,7 +185,7 @@
   },
   {
     "lesson": 15,
-    "src": "assets/illustrations/lesson_15_effect_uncertainty_threshold.png",
+    "src": "assets/illustrations/lessons/lesson_15_effect_uncertainty_threshold.png",
     "width": 1536,
     "height": 1024,
     "section": "15.2 Minimum reporting standard",
