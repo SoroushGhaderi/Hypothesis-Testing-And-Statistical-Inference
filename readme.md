@@ -7,7 +7,9 @@ lessons are authoritative; Jupyter notebooks are supporting executable examples.
 For a classroom-friendly presentation, open the generated [Learning Studio](course.html). It transforms the
 authoritative lesson explanations into a concept-first experience with visual models, misconception checks, scenarios,
 navigation, search, progress tracking, responsive layout, and print styling. Notebook code, worked solutions, raw
-outputs, and notebook plots remain outside the student-facing HTML.
+outputs, and notebook plots remain outside the student-facing HTML. Each of the 15 lessons now includes a sparse
+concept illustration with accessible English/Persian captions and a full-size link. Keep the `assets/` folder
+beside `course.html` when opening or sharing the course so its illustrations and local fonts can load.
 
 ## Audience and prerequisites
 
@@ -94,7 +96,7 @@ Read the [Course Data Bundle guide](data/readme.md) for provenance, variables, c
 - Each level contains supporting notebooks, a short README, and an authoritative `markdown/` course folder.
 - `data/` — five local real-data CSV files plus provenance and cleaning documentation.
 - [Documentation index](docs/readme.md) — syllabus, learner references, and maintenance records.
-- `course.html` — single-file visual Learning Studio derived from the authoritative teaching content.
+- `course.html` — visual Learning Studio derived from the authoritative teaching content, with local assets.
 - `requirements.txt` — Python dependencies.
 - `tools/build_course.py` — end-to-end real-data refresh and validation entry point.
 - `tools/build_course_data.py` — deterministic dataset builder from statsmodels sources.

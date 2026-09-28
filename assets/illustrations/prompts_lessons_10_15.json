@@ -1,0 +1,36 @@
+{
+  "mode": "built-in image_gen",
+  "reference_image": "preview_set_01/lesson_01_two_sided_p_value.png",
+  "images": [
+    {
+      "lesson": 10,
+      "slug": "association_scatter",
+      "prompt": "Input image 1 is ONLY a style reference. Match the approved warm ivory paper (#f8f5ee), muted ink blue (#285777), graphite (#263849), ochre (#b4874b), subtle print texture, clean sans-serif labels, calm university textbook atmosphere. Create a new educational diagram; do not copy the reference subject. Landscape 3:2, generous margins and empty space, one teaching idea, sparse large labels readable on mobile, precise geometry. No title, paragraphs, formulas, decorative icons, gradients, 3D, gloss, glow, watermark or invented numeric measurements. Schematic rather than observed study data. Use case: scientific-educational. Show one moderate positive association scatterplot with fourteen blue points and natural scatter, two simple axes labelled exactly \"Age\" and \"TV-news days\". No fitted line, numbers, causal arrows, extra labels or panels. This is an illustrative association, not an actual ANES plot."
+    },
+    {
+      "lesson": 11,
+      "slug": "permutation_labels",
+      "prompt": "Input image 1 is ONLY a style reference. Match the approved warm ivory paper (#f8f5ee), muted ink blue (#285777), graphite (#263849), ochre (#b4874b), subtle print texture, clean sans-serif labels, calm university textbook atmosphere. Create a new educational diagram; do not copy the reference subject. Landscape 3:2, generous margins and empty space, one teaching idea, sparse large labels readable on mobile, precise geometry. No title, paragraphs, formulas, decorative icons, gradients, 3D, gloss, glow, watermark or invented numeric measurements. Schematic rather than observed study data. Use case: scientific-educational. Show two rows of four identical outlined record cards. Each row has the same records, same order, and same graphite identifying glyphs: circle, square, triangle, diamond. ONLY group-label strips change: top row blue, blue, ochre, ochre; bottom row blue, ochre, blue, ochre. Labels exactly \"Original\" above first row and \"Shuffled\" above second. No arrows, axes, resampled or duplicated records, extra text. Teach permutation as shuffling group labels while records stay fixed."
+    },
+    {
+      "lesson": 12,
+      "slug": "equivalence_bounds",
+      "prompt": "Input image 1 is ONLY a style reference. Match the approved warm ivory paper (#f8f5ee), muted ink blue (#285777), graphite (#263849), ochre (#b4874b), subtle print texture, clean sans-serif labels, calm university textbook atmosphere. Create a new educational diagram; do not copy the reference subject. Landscape 3:2, generous margins and empty space, one teaching idea, sparse large labels readable on mobile, precise geometry. No title, paragraphs, formulas, decorative icons, gradients, 3D, gloss, glow, watermark or invented numeric measurements. Schematic rather than observed study data. Use case: scientific-educational. Show one horizontal confidence interval with blue caps and estimate dot. Two dashed ochre vertical equivalence bounds cross the baseline. The interval starts between bounds but extends beyond the upper/right bound, and its estimate dot is inside the bounds. Exact labels \"Lower bound\", \"Upper bound\", \"Interval\". Clearly separate labels and marks. No zero marker, probability, numeric values, extra text. Teach that equivalence needs the entire interval within bounds, which is not met here."
+    },
+    {
+      "lesson": 13,
+      "slug": "censored_follow_up",
+      "prompt": "Input image 1 is ONLY a style reference. Match the approved warm ivory paper (#f8f5ee), muted ink blue (#285777), graphite (#263849), ochre (#b4874b), subtle print texture, clean sans-serif labels, calm university textbook atmosphere. Create a new educational diagram; do not copy the reference subject. Landscape 3:2, generous margins and empty space, one teaching idea, sparse large labels readable on mobile, precise geometry. No title, paragraphs, formulas, decorative icons, gradients, 3D, gloss, glow, watermark or invented numeric measurements. Schematic rather than observed study data. Use case: scientific-educational. Show four parallel follow-up timelines sharing a left start, each ending at a different time. Two end in blue filled event dots; two end in ochre short perpendicular censoring ticks. No line after any endpoint. Labels only \"Event\" next to one dot, \"Censored\" next to one tick, and \"Follow-up\" below the timelines. No axes, patients, clocks, probabilities, numbers, arrows or additional panels. Teach censoring as observation ending without an observed event."
+    },
+    {
+      "lesson": 14,
+      "slug": "count_and_binary_outcomes",
+      "prompt": "Input image 1 is ONLY a style reference. Match the approved warm ivory paper (#f8f5ee), muted ink blue (#285777), graphite (#263849), ochre (#b4874b), subtle print texture, clean sans-serif labels, calm university textbook atmosphere. Create a new educational diagram; do not copy the reference subject. Landscape 3:2, generous margins and empty space, one teaching idea, sparse large labels readable on mobile, precise geometry. No title, paragraphs, formulas, decorative icons, gradients, 3D, gloss, glow, watermark or invented numeric measurements. Schematic rather than observed study data. Use case: scientific-educational. Show two sparse representations of the SAME hypothetical participant: left three small blue visit circles, right one checked blue checkbox. Exact labels \"Visit count\" above left, \"3\" below left, \"Any visit\" above right and \"Yes\" below right. The 3 is the illustrative count of the three visible visit marks, not study data. No person icon, arrows, extra text, models, distributions or panels. Teach that total visits and having any visit are different outcomes."
+    },
+    {
+      "lesson": 15,
+      "slug": "effect_uncertainty_threshold",
+      "prompt": "Input image 1 is ONLY a style reference. Match the approved warm ivory paper (#f8f5ee), muted ink blue (#285777), graphite (#263849), ochre (#b4874b), subtle print texture, clean sans-serif labels, calm university textbook atmosphere. Create a new educational diagram; do not copy the reference subject. Landscape 3:2, generous margins and empty space, one teaching idea, sparse large labels readable on mobile, precise geometry. No title, paragraphs, formulas, decorative icons, gradients, 3D, gloss, glow, watermark or invented numeric measurements. Schematic rather than observed study data. Use case: scientific-educational. Show one horizontal blue capped interval and blue estimate dot; a single thin dashed ochre vertical practical threshold intersects the interval to the right of the estimate dot, with the upper endpoint further right. Exact labels \"Effect\" above estimate dot, \"Interval\" below segment, \"Useful threshold\" below dashed threshold. No zero or null marker, numeric coordinates, extra text, panels or significance claim. Teach reporting effect and uncertainty relative to a practical threshold."
+    }
+  ]
+}

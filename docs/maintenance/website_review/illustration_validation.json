@@ -1,0 +1,4258 @@
+{
+  "url": "file:///Users/soroush/Desktop/Personal/Projects/hypothesis_testing_and_statistical_inference/course.html",
+  "page_checks": [
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "course_overview",
+      "text_nodes": 98,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "syllabus",
+      "text_nodes": 99,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "data_stories",
+      "text_nodes": 121,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_01",
+      "text_nodes": 253,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_02",
+      "text_nodes": 176,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_03",
+      "text_nodes": 176,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_04",
+      "text_nodes": 142,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_05",
+      "text_nodes": 151,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_06",
+      "text_nodes": 168,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_07",
+      "text_nodes": 182,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 192,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 163,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 166,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_11",
+      "text_nodes": 170,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 186,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 169,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_14",
+      "text_nodes": 190,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_15",
+      "text_nodes": 226,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "test_selection_guide",
+      "text_nodes": 145,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "page": "glossary",
+      "text_nodes": 98,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "course_overview",
+      "text_nodes": 118,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "syllabus",
+      "text_nodes": 119,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "data_stories",
+      "text_nodes": 141,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_01",
+      "text_nodes": 273,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_02",
+      "text_nodes": 196,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_03",
+      "text_nodes": 196,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_04",
+      "text_nodes": 162,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_05",
+      "text_nodes": 171,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_06",
+      "text_nodes": 178,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_07",
+      "text_nodes": 192,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 202,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 173,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 176,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_11",
+      "text_nodes": 170,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 186,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 169,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_14",
+      "text_nodes": 190,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_15",
+      "text_nodes": 226,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "test_selection_guide",
+      "text_nodes": 145,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "page": "glossary",
+      "text_nodes": 98,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "course_overview",
+      "text_nodes": 118,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "syllabus",
+      "text_nodes": 119,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "data_stories",
+      "text_nodes": 141,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_01",
+      "text_nodes": 273,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_02",
+      "text_nodes": 196,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_03",
+      "text_nodes": 196,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_04",
+      "text_nodes": 162,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_05",
+      "text_nodes": 171,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_06",
+      "text_nodes": 178,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_07",
+      "text_nodes": 192,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 202,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 173,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 176,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_11",
+      "text_nodes": 170,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 186,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 169,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_14",
+      "text_nodes": 190,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_15",
+      "text_nodes": 226,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "test_selection_guide",
+      "text_nodes": 145,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "page": "glossary",
+      "text_nodes": 98,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "course_overview",
+      "text_nodes": 118,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "syllabus",
+      "text_nodes": 119,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "data_stories",
+      "text_nodes": 141,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_01",
+      "text_nodes": 273,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_02",
+      "text_nodes": 196,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_03",
+      "text_nodes": 196,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_04",
+      "text_nodes": 162,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_05",
+      "text_nodes": 171,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_06",
+      "text_nodes": 178,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_07",
+      "text_nodes": 192,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 202,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 173,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 176,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_11",
+      "text_nodes": 170,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 186,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 169,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_14",
+      "text_nodes": 190,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_15",
+      "text_nodes": 226,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "test_selection_guide",
+      "text_nodes": 145,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "page": "glossary",
+      "text_nodes": 98,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "course_overview",
+      "text_nodes": 118,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "syllabus",
+      "text_nodes": 119,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "data_stories",
+      "text_nodes": 141,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_01",
+      "text_nodes": 273,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_02",
+      "text_nodes": 196,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_03",
+      "text_nodes": 196,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_04",
+      "text_nodes": 162,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_05",
+      "text_nodes": 171,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_06",
+      "text_nodes": 178,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_07",
+      "text_nodes": 192,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 202,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 173,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 176,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_11",
+      "text_nodes": 170,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 186,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 169,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_14",
+      "text_nodes": 190,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_15",
+      "text_nodes": 226,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "test_selection_guide",
+      "text_nodes": 145,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "page": "glossary",
+      "text_nodes": 98,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "course_overview",
+      "text_nodes": 118,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "syllabus",
+      "text_nodes": 119,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "data_stories",
+      "text_nodes": 141,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_01",
+      "text_nodes": 273,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_02",
+      "text_nodes": 196,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_03",
+      "text_nodes": 196,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_04",
+      "text_nodes": 162,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_05",
+      "text_nodes": 171,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_06",
+      "text_nodes": 178,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_07",
+      "text_nodes": 192,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 202,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 173,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 176,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_11",
+      "text_nodes": 170,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 186,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 169,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_14",
+      "text_nodes": 190,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_15",
+      "text_nodes": 226,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "test_selection_guide",
+      "text_nodes": 145,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "page": "glossary",
+      "text_nodes": 98,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "course_overview",
+      "text_nodes": 118,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "syllabus",
+      "text_nodes": 119,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "data_stories",
+      "text_nodes": 141,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_01",
+      "text_nodes": 273,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_02",
+      "text_nodes": 196,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_03",
+      "text_nodes": 196,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_04",
+      "text_nodes": 162,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_05",
+      "text_nodes": 171,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_06",
+      "text_nodes": 178,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_07",
+      "text_nodes": 192,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 202,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 173,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 176,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_11",
+      "text_nodes": 170,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 186,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 169,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_14",
+      "text_nodes": 190,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_15",
+      "text_nodes": 226,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "test_selection_guide",
+      "text_nodes": 145,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "page": "glossary",
+      "text_nodes": 98,
+      "minimum_contrast": 4.684
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "course_overview",
+      "text_nodes": 118,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "syllabus",
+      "text_nodes": 119,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "data_stories",
+      "text_nodes": 141,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_01",
+      "text_nodes": 273,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_02",
+      "text_nodes": 196,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_03",
+      "text_nodes": 196,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_04",
+      "text_nodes": 162,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_05",
+      "text_nodes": 171,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_06",
+      "text_nodes": 178,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_07",
+      "text_nodes": 192,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 202,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 173,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 176,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_11",
+      "text_nodes": 170,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 186,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 169,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_14",
+      "text_nodes": 190,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_15",
+      "text_nodes": 226,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "test_selection_guide",
+      "text_nodes": 145,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "page": "glossary",
+      "text_nodes": 98,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "course_overview",
+      "text_nodes": 67,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "syllabus",
+      "text_nodes": 68,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "data_stories",
+      "text_nodes": 90,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_01",
+      "text_nodes": 222,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_02",
+      "text_nodes": 145,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_03",
+      "text_nodes": 145,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_04",
+      "text_nodes": 111,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_05",
+      "text_nodes": 120,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_06",
+      "text_nodes": 127,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_07",
+      "text_nodes": 141,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 151,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 122,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 125,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_11",
+      "text_nodes": 119,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 135,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 118,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_14",
+      "text_nodes": 139,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_15",
+      "text_nodes": 175,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "test_selection_guide",
+      "text_nodes": 94,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "page": "glossary",
+      "text_nodes": 47,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "course_overview",
+      "text_nodes": 67,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "syllabus",
+      "text_nodes": 68,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "data_stories",
+      "text_nodes": 90,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_01",
+      "text_nodes": 222,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_02",
+      "text_nodes": 145,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_03",
+      "text_nodes": 145,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_04",
+      "text_nodes": 111,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_05",
+      "text_nodes": 120,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_06",
+      "text_nodes": 127,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_07",
+      "text_nodes": 141,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 151,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 122,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 125,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_11",
+      "text_nodes": 119,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 135,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 118,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_14",
+      "text_nodes": 139,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_15",
+      "text_nodes": 175,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "test_selection_guide",
+      "text_nodes": 94,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "page": "glossary",
+      "text_nodes": 47,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "course_overview",
+      "text_nodes": 67,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "syllabus",
+      "text_nodes": 68,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "data_stories",
+      "text_nodes": 90,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_01",
+      "text_nodes": 222,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_02",
+      "text_nodes": 145,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_03",
+      "text_nodes": 145,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_04",
+      "text_nodes": 111,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_05",
+      "text_nodes": 120,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_06",
+      "text_nodes": 127,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_07",
+      "text_nodes": 141,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 151,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 122,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 125,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_11",
+      "text_nodes": 119,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 135,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 118,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_14",
+      "text_nodes": 139,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_15",
+      "text_nodes": 175,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "test_selection_guide",
+      "text_nodes": 94,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "page": "glossary",
+      "text_nodes": 47,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "course_overview",
+      "text_nodes": 67,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "syllabus",
+      "text_nodes": 68,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "data_stories",
+      "text_nodes": 90,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_01",
+      "text_nodes": 222,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_02",
+      "text_nodes": 145,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_03",
+      "text_nodes": 145,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_04",
+      "text_nodes": 111,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_05",
+      "text_nodes": 120,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_06",
+      "text_nodes": 127,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_07",
+      "text_nodes": 141,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 151,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 122,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 125,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_11",
+      "text_nodes": 119,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 135,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 118,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_14",
+      "text_nodes": 139,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_15",
+      "text_nodes": 175,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "test_selection_guide",
+      "text_nodes": 94,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "page": "glossary",
+      "text_nodes": 47,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "course_overview",
+      "text_nodes": 67,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "syllabus",
+      "text_nodes": 68,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "data_stories",
+      "text_nodes": 90,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_01",
+      "text_nodes": 222,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_02",
+      "text_nodes": 145,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_03",
+      "text_nodes": 145,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_04",
+      "text_nodes": 111,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_05",
+      "text_nodes": 120,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_06",
+      "text_nodes": 127,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_07",
+      "text_nodes": 141,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 151,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 122,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 125,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_11",
+      "text_nodes": 119,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 135,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 118,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_14",
+      "text_nodes": 139,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "lesson_15",
+      "text_nodes": 175,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "test_selection_guide",
+      "text_nodes": 94,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "page": "glossary",
+      "text_nodes": 47,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "course_overview",
+      "text_nodes": 67,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "syllabus",
+      "text_nodes": 68,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "data_stories",
+      "text_nodes": 90,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_01",
+      "text_nodes": 222,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_02",
+      "text_nodes": 145,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_03",
+      "text_nodes": 145,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_04",
+      "text_nodes": 111,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_05",
+      "text_nodes": 120,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_06",
+      "text_nodes": 127,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_07",
+      "text_nodes": 141,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 151,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 122,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 125,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_11",
+      "text_nodes": 119,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 135,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 118,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_14",
+      "text_nodes": 139,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "lesson_15",
+      "text_nodes": 175,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "test_selection_guide",
+      "text_nodes": 94,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "page": "glossary",
+      "text_nodes": 47,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "course_overview",
+      "text_nodes": 67,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "syllabus",
+      "text_nodes": 68,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "data_stories",
+      "text_nodes": 90,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_01",
+      "text_nodes": 222,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_02",
+      "text_nodes": 145,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_03",
+      "text_nodes": 145,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_04",
+      "text_nodes": 111,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_05",
+      "text_nodes": 120,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_06",
+      "text_nodes": 127,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_07",
+      "text_nodes": 141,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_08",
+      "text_nodes": 151,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_09",
+      "text_nodes": 122,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_10",
+      "text_nodes": 125,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_11",
+      "text_nodes": 119,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_12",
+      "text_nodes": 135,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_13",
+      "text_nodes": 118,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_14",
+      "text_nodes": 139,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "lesson_15",
+      "text_nodes": 175,
+      "minimum_contrast": 5.605
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "test_selection_guide",
+      "text_nodes": 94,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "page": "glossary",
+      "text_nodes": 47,
+      "minimum_contrast": 6.065
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "course_overview",
+      "text_nodes": 67,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "syllabus",
+      "text_nodes": 68,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "data_stories",
+      "text_nodes": 90,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_01",
+      "text_nodes": 222,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_02",
+      "text_nodes": 145,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_03",
+      "text_nodes": 145,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_04",
+      "text_nodes": 111,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_05",
+      "text_nodes": 120,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_06",
+      "text_nodes": 127,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_07",
+      "text_nodes": 141,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_08",
+      "text_nodes": 151,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_09",
+      "text_nodes": 122,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_10",
+      "text_nodes": 125,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_11",
+      "text_nodes": 119,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_12",
+      "text_nodes": 135,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_13",
+      "text_nodes": 118,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_14",
+      "text_nodes": 139,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "lesson_15",
+      "text_nodes": 175,
+      "minimum_contrast": 7.545
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "test_selection_guide",
+      "text_nodes": 94,
+      "minimum_contrast": 7.741
+    },
+    {
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "page": "glossary",
+      "text_nodes": 47,
+      "minimum_contrast": 7.741
+    }
+  ],
+  "illustration_checks": [
+    {
+      "page": "lesson_01",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 1440,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 1440,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 1440,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 1440,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 768,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 768,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 768,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 768,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 390,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 390,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 390,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 390,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 320,
+      "language": "en",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 320,
+      "language": "en",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 320,
+      "language": "fa",
+      "theme": "light",
+      "loaded": true
+    },
+    {
+      "page": "lesson_01",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_02",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_03",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_04",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_05",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_06",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_07",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_08",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_09",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_10",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_11",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_12",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_13",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_14",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    },
+    {
+      "page": "lesson_15",
+      "width": 320,
+      "language": "fa",
+      "theme": "dark",
+      "loaded": true
+    }
+  ],
+  "interaction_checks": [
+    "light: menu/search/progress/hover/focus/keyboard/reload/language",
+    "dark: menu/search/progress/hover/focus/keyboard/reload/language",
+    "system default/live change and explicit preference precedence",
+    "print uses light colors even with saved night mode",
+    "invalid storage: reading and toggle remain functional",
+    "blocked storage: reading and toggle remain functional",
+    "full-size link opens correct original image in a new tab"
+  ],
+  "errors": [],
+  "total_page_checks": 320
+}

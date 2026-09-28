@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="A visual, concept-first course in hypothesis testing and statistical inference.">
   <title>Hypothesis Testing · Learning Studio</title>
+  <script>
+    // Apply the preference before styles paint; storage may be unavailable for local files.
+    (() => {
+      let preference = null;
+      try { preference = localStorage.getItem('hypothesis_testing_course_theme_v1'); } catch (error) { /* Follow the system for this visit. */ }
+      const theme = ['light', 'dark'].includes(preference) ? preference
+        : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      document.documentElement.dataset.theme = theme;
+    })();
+  </script>
   <style>
 __COURSE_CSS__
   </style>
@@ -21,8 +31,8 @@ __COURSE_CSS__
       <label class="language_control" for="language_select"><span data-i18n="language">Language</span>
         <select id="language_select" aria-label="Language"><option value="en">English</option><option value="fa">فارسی</option></select>
       </label>
-      <button class="icon_button" id="theme_button" type="button" aria-label="Toggle high contrast">◐</button>
-      <button class="icon_button menu_button" id="menu_button" type="button" aria-label="Open course navigation">☰</button>
+      <button class="icon_button" id="theme_button" type="button" aria-label="Night mode" aria-pressed="false" title="Switch to night mode">◐</button>
+      <button class="icon_button menu_button" id="menu_button" type="button" aria-label="Open course navigation" aria-controls="course_navigation" aria-expanded="false">☰</button>
     </div>
   </header>
   <div class="course_layout">
@@ -40,16 +50,21 @@ __COURSE_CSS__
     const lessonChecks = [...document.querySelectorAll('[data-progress]')];
     const progressKey = 'hypothesis_testing_course_progress_v2';
     const languageKey = 'hypothesis_testing_course_language_v1';
+    const themeKey = 'hypothesis_testing_course_theme_v1';
+    const themeMedia = window.matchMedia('(prefers-color-scheme: dark)');
+    let themePreference = null;
+    try { themePreference = localStorage.getItem(themeKey); } catch (error) { /* The toggle still works without storage. */ }
+    if (!['light', 'dark'].includes(themePreference)) themePreference = null;
     const uiEnglish = {
       language: 'Language', skip: 'Skip to course content', progress: 'Course progress',
       search: 'Find a lesson or topic', searchLabel: 'Search course navigation',
-      noMatches: 'No matching pages.', theme: 'Toggle high contrast', menu: 'Open course navigation',
+      noMatches: 'No matching pages.', theme: 'Night mode', themeToDark: 'Switch to night mode', themeToLight: 'Switch to light mode', menu: 'Open course navigation',
       complete: 'Mark lesson complete'
     };
     const uiPersian = {
       language: 'زبان', skip: 'رفتن به محتوای دوره', progress: 'پیشرفت دوره',
       search: 'جست‌وجوی درس یا موضوع', searchLabel: 'جست‌وجو در ناوبری دوره',
-      noMatches: 'صفحه‌ای پیدا نشد.', theme: 'تغییر کنتراست بالا', menu: 'باز کردن راهبری دوره',
+      noMatches: 'صفحه‌ای پیدا نشد.', theme: 'حالت شب', themeToDark: 'تغییر به حالت شب', themeToLight: 'تغییر به حالت روشن', menu: 'باز کردن راهبری دوره',
       complete: 'علامت‌گذاری به‌عنوان درس کامل‌شده'
     };
     const translations = __FA_TRANSLATIONS__;
@@ -98,7 +113,7 @@ __COURSE_CSS__
       document.querySelector('.search_box input').setAttribute('aria-label', strings.searchLabel);
       document.querySelector('.empty_search').textContent = strings.noMatches;
       document.querySelector('[data-i18n="language"]').textContent = strings.language;
-      document.getElementById('theme_button').setAttribute('aria-label', strings.theme);
+      updateThemeControl();
       document.getElementById('menu_button').setAttribute('aria-label', strings.menu);
       document.querySelectorAll('.lesson_complete').forEach(label => { label.lastChild.textContent = ` ${strings.complete}`; });
       document.querySelectorAll('.page_nav').forEach(nav => nav.setAttribute('aria-label', language === 'fa' ? 'راهبری درس' : 'Lesson navigation'));
@@ -117,6 +132,22 @@ __COURSE_CSS__
       document.title = `${titleFor(selected?.id || 'course_overview')} · ${language === 'fa' ? 'استودیوی یادگیری' : 'Learning Studio'}`;
     }
     let activeLanguage = 'en';
+    function updateThemeControl() {
+      const dark = document.documentElement.dataset.theme === 'dark';
+      const strings = activeLanguage === 'fa' ? uiPersian : uiEnglish;
+      const button = document.getElementById('theme_button');
+      button.setAttribute('aria-label', strings.theme);
+      button.setAttribute('aria-pressed', String(dark));
+      button.title = dark ? strings.themeToLight : strings.themeToDark;
+    }
+    function setTheme(theme, persist = false) {
+      document.documentElement.dataset.theme = theme;
+      updateThemeControl();
+      if (persist) {
+        themePreference = theme;
+        try { localStorage.setItem(themeKey, theme); } catch (error) { /* Keep the preference for this visit. */ }
+      }
+    }
     function setLanguage(language) {
       activeLanguage = language;
       document.querySelectorAll('.course_page').forEach(page => { if (!page._englishTitle) page._englishTitle = page.dataset.title; });
@@ -175,7 +206,7 @@ __COURSE_CSS__
       const activeGroup = document.querySelector(`.nav_link[data-page="${id}"]`)?.closest('.nav_level');
       if (activeGroup) activeGroup.open = true;
       document.title = `${titleFor(id)} · ${activeLanguage === 'fa' ? 'استودیوی یادگیری' : 'Learning Studio'}`;
-      document.body.classList.remove('nav_open');
+      setNavigationOpen(false);
       window.scrollTo({ top: 0, behavior: 'instant' });
       if (activeLanguage === 'fa') setTimeout(() => setLanguage('fa'), 0);
     }
@@ -191,8 +222,17 @@ __COURSE_CSS__
       });
       document.getElementById('empty_search').style.display = visible ? 'none' : 'block';
     });
-    document.getElementById('menu_button').addEventListener('click', () => document.body.classList.toggle('nav_open'));
-    document.getElementById('theme_button').addEventListener('click', () => document.body.classList.toggle('high_contrast'));
+    function setNavigationOpen(open) {
+      document.body.classList.toggle('nav_open', open);
+      document.getElementById('menu_button').setAttribute('aria-expanded', String(open));
+    }
+    document.getElementById('menu_button').addEventListener('click', () => setNavigationOpen(!document.body.classList.contains('nav_open')));
+    // Clicking the current lesson does not fire hashchange, but must still close the drawer.
+    document.getElementById('course_navigation').addEventListener('click', event => { if (event.target.closest('.nav_link')) setNavigationOpen(false); });
+    document.addEventListener('keydown', event => { if (event.key === 'Escape') setNavigationOpen(false); });
+    document.getElementById('theme_button').addEventListener('click', () => setTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark', true));
+    themeMedia.addEventListener('change', event => { if (!themePreference) setTheme(event.matches ? 'dark' : 'light'); });
+    setTheme(document.documentElement.dataset.theme);
     document.getElementById('language_select').addEventListener('change', event => setLanguage(event.target.value));
     window.addEventListener('hashchange', showPage);
     buildPageNavigation(); updateProgress(); showPage();

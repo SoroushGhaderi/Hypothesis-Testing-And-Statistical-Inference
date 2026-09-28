@@ -1,0 +1,4 @@
+{
+  "mode": "built-in image_gen",
+  "prompt": "Edit the reference illustration with ONE structural correction only. The four patient follow-up timelines must be separate horizontal lines, starting at the same x position but at four different y positions. Remove the vertical line joining their left endpoints and remove the extra dot and short leftward stem at the left. Do not connect the four rows to each other. Preserve the four existing horizontal durations, two blue event dots at right ends, two ochre censoring ticks at right ends, exact labels Event, Censored, Follow-up, typography, ivory paper, subtle ink texture, blue/ochre palette, generous margins and overall composition. No new marks, symbols or words."
+}

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the final Learning Studio course without code, solutions, outputs, or plots."""
+"""Build Learning Studio with approved concept illustrations, without notebook artifacts."""
 
 from __future__ import annotations
 
@@ -17,6 +17,10 @@ from mathml import render_math
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "course.html"
+ILLUSTRATIONS = {
+    item["lesson"]: item
+    for item in json.loads((ROOT / "tools" / "course_illustrations.json").read_text(encoding="utf-8"))
+}
 
 
 LESSONS = [
@@ -197,6 +201,21 @@ class TeachingRenderer(mistune.HTMLRenderer):
         return text
 
 
+def illustration_html(spec: dict) -> str:
+    source = spec["src"]
+    asset = (ROOT / source).resolve()
+    if not source.startswith("assets/illustrations/") or not asset.is_relative_to(ROOT / "assets" / "illustrations") or not asset.is_file():
+        raise ValueError(f"Missing or invalid approved illustration: {source}")
+    return (
+        f'<figure class="lesson_illustration" data-illustration="lesson_{spec["lesson"]:02d}">'
+        f'<a class="illustration_open" href="{html.escape(source, quote=True)}" target="_blank" rel="noopener" aria-label="Open illustration at full size">'
+        f'<img src="{html.escape(source, quote=True)}" width="{spec["width"]}" height="{spec["height"]}" loading="lazy" decoding="async" alt="{html.escape(spec["alt"], quote=True)}">'
+        '<span class="illustration_open_label">View full size</span></a>'
+        f'<figcaption><p>{html.escape(spec["caption"])}</p>'
+        f'<p class="illustration_labels">{html.escape(spec["labels_text"])}</p></figcaption></figure>'
+    )
+
+
 def render_sections(path: Path, page_map: dict[Path, str], lesson_number: int | None = None) -> str:
     cleaned = clean_markdown(path.read_text(encoding="utf-8"))
     renderer = TeachingRenderer(path, page_map, heading_offset=1 if lesson_number is not None else 0)
@@ -206,16 +225,29 @@ def render_sections(path: Path, page_map: dict[Path, str], lesson_number: int | 
     parts = re.split(r"(?=^##\s+)", cleaned, flags=re.M)
     rendered = []
     phases: dict[str, list[str]] = {"orient": [], "explore": [], "apply": []}
+    illustration = ILLUSTRATIONS.get(lesson_number)
+    illustration_inserted = False
     for index, part in enumerate(parts):
         if not part.strip():
             continue
         body = markdown(part)
+        heading = re.search(r"^##\s+(.+)$", part, flags=re.M)
+        name = heading.group(1).lower() if heading else "lesson overview"
+        if illustration and name == illustration["section"].lower():
+            figure = illustration_html(illustration)
+            before = illustration.get("before_heading")
+            if before:
+                marker = re.search(r"<h([1-6])>" + re.escape(before) + r"</h\1>", body)
+                if not marker:
+                    raise ValueError(f"Illustration insertion heading missing in lesson {lesson_number}: {before}")
+                body = body[:marker.start()] + figure + body[marker.start():]
+            else:
+                body += figure
+            illustration_inserted = True
         wide = " wide" if index in {0, 1} or any(label in part.lower() for label in ["summary", "learning objectives", "data used", "reproducibility"]) else ""
         module = f'<section class="module{wide}">{body}</section>'
         rendered.append(module)
         if lesson_number is not None:
-            heading = re.search(r"^##\s+(.+)$", part, flags=re.M)
-            name = heading.group(1).lower() if heading else "lesson overview"
             if name in {"lesson overview", "learning objectives", "data used in this lesson"}:
                 phases["orient"].append(module)
             elif re.match(r"\d+\.\d+\s", name) or name == "worked example and interpretation":
@@ -223,6 +255,8 @@ def render_sections(path: Path, page_map: dict[Path, str], lesson_number: int | 
             else:
                 phases["apply"].append(module)
     if lesson_number is not None:
+        if illustration and not illustration_inserted:
+            raise ValueError(f"Illustration insertion section missing in lesson {lesson_number}: {illustration['section']}")
         def phase(number: str, title: str, description: str, content: str) -> str:
             return (f'<section class="lesson_phase" aria-label="{title}">'
                     f'<header class="phase_header"><span>{number}</span><div><h2>{title}</h2><p>{description}</p></div></header>'
@@ -366,6 +400,13 @@ def main() -> None:
     if not translation_path.exists():
         raise SystemExit("Static Persian website translations are missing.")
     translations = json.loads(translation_path.read_text(encoding="utf-8"))
+    for spec in ILLUSTRATIONS.values():
+        for field in ["caption", "alt", "labels_text"]:
+            translations[spec[field]] = spec[field + "_fa"]
+    translations.update({
+        "View full size": "مشاهده در اندازهٔ کامل",
+        "Open illustration at full size": "باز کردن تصویر در اندازهٔ کامل",
+    })
     translation_json = json.dumps(translations, ensure_ascii=False).replace("<", "\\u003c")
     order = [re.search(r'id="([^"]+)"', article).group(1) for _, _, article in pages]
     result = (
