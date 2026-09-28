@@ -362,9 +362,15 @@ def main() -> None:
 
     template = (ROOT / "tools" / "learning_studio_template.html").read_text(encoding="utf-8")
     course_css = (ROOT / "tools" / "course_styles.css").read_text(encoding="utf-8")
+    translation_path = ROOT / "tools" / "site_translations.fa.json"
+    if not translation_path.exists():
+        raise SystemExit("Static Persian website translations are missing.")
+    translations = json.loads(translation_path.read_text(encoding="utf-8"))
+    translation_json = json.dumps(translations, ensure_ascii=False).replace("<", "\\u003c")
     order = [re.search(r'id="([^"]+)"', article).group(1) for _, _, article in pages]
     result = (
         template.replace("__COURSE_CSS__", course_css)
+        .replace("__FA_TRANSLATIONS__", translation_json)
         .replace("__NAVIGATION__", "\n".join(navigation))
         .replace("__ARTICLES__", "\n".join(article for _, _, article in pages))
         .replace("__PAGE_ORDER__", json.dumps(order))

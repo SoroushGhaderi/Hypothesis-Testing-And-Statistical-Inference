@@ -37,6 +37,8 @@ button, summary { cursor: pointer; }
 .progress_track { height: 5px; margin-top: 7px; border-radius: 999px; background: var(--line); }
 .progress_fill { width: 0; height: 100%; border-radius: inherit; background: var(--accent); transition: width .2s ease; }
 .header_actions { display: flex; justify-content: flex-end; gap: 8px; }
+.language_control { display: flex; align-items: center; gap: 7px; color: var(--muted); font-size: 12px; font-weight: 600; }
+.language_control select { min-height: 38px; padding: 5px 9px; border: 1px solid var(--line); border-radius: 9px; background: white; color: var(--ink); }
 .icon_button { display: grid; width: 38px; height: 38px; place-items: center; border: 1px solid var(--line); border-radius: 9px; background: white; color: var(--ink); font-size: 20px; }
 .icon_button:hover { background: var(--accent-soft); }
 .menu_button { display: none; }
@@ -173,6 +175,22 @@ math { font-family: "STIX Two Math", "Cambria Math", "Latin Modern Math", serif;
 .page_nav a:last-child { margin-left: auto; text-align: right; }
 .high_contrast { --ink: #13253b; --muted: #35465a; --accent: #19486e; --accent-dark: #133a5b; --line: #a3b1c1; --canvas: #fff; }
 
+html[dir="rtl"] { --font: "Vazirmatn", "Noto Sans Arabic", Tahoma, Arial, sans-serif; }
+html[dir="rtl"] .course_sidebar { border-right: 0; border-left: 1px solid var(--line); }
+html[dir="rtl"] .nav_level summary { padding: 11px 10px 11px 28px; }
+html[dir="rtl"] .nav_level summary::after { right: auto; left: 12px; }
+html[dir="rtl"] .nav_children { padding: 0 10px 8px 6px; }
+html[dir="rtl"] .module ul, html[dir="rtl"] .module ol { padding-left: 0; padding-right: 1.35em; }
+html[dir="rtl"] .module blockquote { border-left: 0; border-right: 3px solid var(--accent); }
+html[dir="rtl"] .course_hero::after { right: auto; left: 3%; }
+html[dir="rtl"] .page_nav a:last-child { margin-left: 0; margin-right: auto; text-align: left; }
+html[dir="rtl"] .visual_model.ladder .visual_item:nth-child(n) { margin-left: 0; }
+html[dir="rtl"] .visual_model.ladder .visual_item:nth-child(2) { margin-right: 4%; }
+html[dir="rtl"] .visual_model.ladder .visual_item:nth-child(3) { margin-right: 8%; }
+html[dir="rtl"] .visual_model.ladder .visual_item:nth-child(4) { margin-right: 12%; }
+html[dir="rtl"] .visual_model.ladder .visual_item:nth-child(5) { margin-right: 16%; }
+body[data-translation-status="loading"]::after { content: "در حال بارگذاری ترجمهٔ فارسی…"; position: fixed; right: 50%; bottom: 20px; z-index: 60; padding: 9px 15px; border-radius: 9px; background: var(--ink); color: white; font-size: 13px; transform: translateX(50%); }
+
 @media (max-width: 1040px) {
   :root { --sidebar: 265px; }
   .level_card { padding: 20px 22px; }
@@ -184,6 +202,7 @@ math { font-family: "STIX Two Math", "Cambria Math", "Latin Modern Math", serif;
   .menu_button { display: grid; }
   .course_layout { grid-template-columns: 1fr; }
   .course_sidebar { position: fixed; inset: 0 auto 0 0; z-index: 40; width: min(330px,88vw); height: 100vh; transform: translateX(-105%); transition: transform .2s ease; box-shadow: 10px 0 30px rgba(20,43,43,.14); }
+  html[dir="rtl"] .course_sidebar { inset: 0 0 0 auto; transform: translateX(105%); }
   body.nav_open .course_sidebar { transform: none; }
   .course_main { padding: 30px 18px 70px; }
   .lesson_header { display: block; margin-bottom: 32px; }
@@ -196,6 +215,8 @@ math { font-family: "STIX Two Math", "Cambria Math", "Latin Modern Math", serif;
 @media (max-width: 440px) {
   .brand span:last-child { max-width: 170px; overflow: hidden; text-overflow: ellipsis; }
   .header_actions { gap: 5px; }
+  .language_control { gap: 4px; font-size: 11px; }
+  .language_control select { min-height: 34px; padding: 4px 5px; }
   .visual_model.flow { grid-template-columns: 1fr; }
   .phase_header { align-items: start; }
   .page_nav { flex-direction: column; }
@@ -213,4 +234,20 @@ math { font-family: "STIX Two Math", "Cambria Math", "Latin Modern Math", serif;
   .course_page { display: block !important; width: 100%; max-width: none; break-before: page; }
   .course_page:first-child { break-before: auto; }
   .module, .level_card, .misconception { break-inside: avoid; }
+}
+@font-face {
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("assets/fonts/Vazirmatn-Arabic.woff2") format("woff2");
+  unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+@font-face {
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("assets/fonts/Vazirmatn-Latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
